@@ -27,7 +27,7 @@ export default function Hero() {
             <div className="mt-8 flex flex-wrap gap-4">
               <a
                 href="#download"
-                className="inline-flex items-center gap-2 bg-green-accent hover:bg-green-hover text-white font-semibold px-6 py-3 rounded-xl transition-colors shadow-lg shadow-green-accent/20"
+                className="inline-flex items-center gap-2 bg-green-accent hover:bg-green-hover text-white font-semibold px-6 py-3 rounded transition-colors shadow-lg shadow-green-accent/20"
               >
                 <Download size={20} />
                 Download Free
@@ -36,7 +36,7 @@ export default function Hero() {
                 href="https://github.com/theroadeldorado/golf-swing-replay"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 border-2 border-sand hover:border-tan text-espresso font-semibold px-6 py-3 rounded-xl transition-colors"
+                className="inline-flex items-center gap-2 border-2 border-sand hover:border-tan text-espresso font-semibold px-6 py-3 rounded transition-colors"
               >
                 <Github size={20} />
                 View on GitHub

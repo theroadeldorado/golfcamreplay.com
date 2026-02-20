@@ -25,7 +25,7 @@ export default async function Download() {
               <>
                 <a
                   href={release.downloadUrl}
-                  className="inline-flex items-center gap-2 bg-green-accent hover:bg-green-hover text-white font-semibold px-8 py-4 rounded-xl transition-colors shadow-lg shadow-green-accent/20 text-lg"
+                  className="inline-flex items-center gap-2 bg-green-accent hover:bg-green-hover text-white font-semibold px-8 py-4 rounded transition-colors shadow-lg shadow-green-accent/20 text-lg"
                 >
                   <DownloadIcon size={22} />
                   Download {release.version}
@@ -39,7 +39,7 @@ export default async function Download() {
                 href="https://github.com/theroadeldorado/golf-swing-replay/releases/latest"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-green-accent hover:bg-green-hover text-white font-semibold px-8 py-4 rounded-xl transition-colors shadow-lg shadow-green-accent/20 text-lg"
+                className="inline-flex items-center gap-2 bg-green-accent hover:bg-green-hover text-white font-semibold px-8 py-4 rounded transition-colors shadow-lg shadow-green-accent/20 text-lg"
               >
                 <DownloadIcon size={22} />
                 Download Latest

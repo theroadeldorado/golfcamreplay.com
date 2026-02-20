@@ -152,7 +152,7 @@ export default function BugReport() {
             <button
               type="submit"
               disabled={status === 'loading'}
-              className="inline-flex items-center gap-2 bg-espresso hover:bg-charcoal text-white font-semibold px-6 py-3 rounded-xl transition-colors disabled:opacity-60 disabled:cursor-not-allowed"
+              className="inline-flex items-center gap-2 bg-espresso hover:bg-charcoal text-white font-semibold px-6 py-3 rounded transition-colors disabled:opacity-60 disabled:cursor-not-allowed"
             >
               {status === 'loading' ? (
                 <>

@@ -18,7 +18,7 @@ export default function Support() {
               href="https://ko-fi.com/theroadeldorado"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-[#FF5E5B] hover:bg-[#e54e4b] text-white font-semibold px-6 py-3 rounded-xl transition-colors shadow-lg shadow-[#FF5E5B]/20"
+              className="inline-flex items-center gap-2 bg-[#FF5E5B] hover:bg-[#e54e4b] text-white font-semibold px-6 py-3 rounded transition-colors shadow-lg shadow-[#FF5E5B]/20"
             >
               <Coffee size={20} />
               Buy Me a Coffee
@@ -27,7 +27,7 @@ export default function Support() {
               href="https://github.com/theroadeldorado/golf-swing-replay"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 border-2 border-sand hover:border-tan text-espresso font-semibold px-6 py-3 rounded-xl transition-colors"
+              className="inline-flex items-center gap-2 border-2 border-sand hover:border-tan text-espresso font-semibold px-6 py-3 rounded transition-colors"
             >
               <Star size={20} />
               Star on GitHub
