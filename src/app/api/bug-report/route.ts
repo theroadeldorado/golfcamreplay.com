@@ -72,7 +72,7 @@ export async function POST(request: NextRequest) {
       .join('\n\n');
 
     const res = await fetch(
-      'https://api.github.com/repos/theroadeldorado/golf-swing-replay/issues',
+      'https://api.github.com/repos/theroadeldorado/golf-cam-replay/issues',
       {
         method: 'POST',
         headers: {

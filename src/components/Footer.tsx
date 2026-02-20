@@ -3,7 +3,7 @@ import { Github, Download, Bug, DollarSign } from 'lucide-react';
 const links = [
   {
     label: 'GitHub Repo',
-    href: 'https://github.com/theroadeldorado/golf-swing-replay',
+    href: 'https://github.com/theroadeldorado/golf-cam-replay',
     icon: Github,
     external: true,
   },

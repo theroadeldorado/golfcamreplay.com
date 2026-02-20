@@ -36,7 +36,7 @@ export default async function Download() {
               </>
             ) : (
               <a
-                href="https://github.com/theroadeldorado/golf-swing-replay/releases/latest"
+                href="https://github.com/theroadeldorado/golf-cam-replay/releases/latest"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-green-accent hover:bg-green-hover text-white font-semibold px-8 py-4 rounded transition-colors shadow-lg shadow-green-accent/20 text-lg"
@@ -48,7 +48,7 @@ export default async function Download() {
 
             <div className="mt-6 pt-6 border-t border-sand">
               <a
-                href="https://github.com/theroadeldorado/golf-swing-replay/releases"
+                href="https://github.com/theroadeldorado/golf-cam-replay/releases"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1.5 text-sm text-gold hover:text-espresso transition-colors font-medium"

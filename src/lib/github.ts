@@ -10,7 +10,7 @@ export interface ReleaseInfo {
 export async function getLatestRelease(): Promise<ReleaseInfo | null> {
   try {
     const res = await fetch(
-      'https://api.github.com/repos/theroadeldorado/golf-swing-replay/releases/latest',
+      'https://api.github.com/repos/theroadeldorado/golf-cam-replay/releases/latest',
       {
         headers: {
           Accept: 'application/vnd.github.v3+json',

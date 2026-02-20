@@ -24,7 +24,7 @@ export default function Support() {
               Tip on Venmo
             </a>
             <a
-              href="https://github.com/theroadeldorado/golf-swing-replay"
+              href="https://github.com/theroadeldorado/golf-cam-replay"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 border-2 border-sand hover:border-tan text-espresso font-semibold px-6 py-3 rounded transition-colors"
