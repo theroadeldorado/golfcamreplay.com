@@ -1,4 +1,4 @@
-import { Github, Download, Bug, Coffee } from 'lucide-react';
+import { Github, Download, Bug, DollarSign } from 'lucide-react';
 
 const links = [
   {
@@ -10,9 +10,9 @@ const links = [
   { label: 'Download', href: '#download', icon: Download, external: false },
   { label: 'Report Bug', href: '#bug-report', icon: Bug, external: false },
   {
-    label: 'Ko-fi',
-    href: 'https://ko-fi.com/theroadeldorado',
-    icon: Coffee,
+    label: 'Venmo',
+    href: 'https://account.venmo.com/u/theroad2eldorado?txn=pay&amount=20',
+    icon: DollarSign,
     external: true,
   },
 ];
