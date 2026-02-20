@@ -6,7 +6,7 @@ const steps = [
     icon: Camera,
     title: 'Set Up Your Camera',
     description:
-      'Point a USB camera or phone camera at your swing area. The app detects available cameras automatically.',
+      'Point a USB camera at your swing area — or use your phone as a wireless camera with a free app like DroidCam.',
   },
   {
     number: '02',

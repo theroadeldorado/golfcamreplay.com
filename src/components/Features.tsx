@@ -1,6 +1,7 @@
 import {
   AudioLines,
   PictureInPicture2,
+  Smartphone,
   Camera,
   RotateCcw,
   PenTool,
@@ -24,10 +25,16 @@ const features = [
       'Drag a floating replay window on top of your golf simulator. No alt-tabbing, no interruption.',
   },
   {
+    icon: Smartphone,
+    title: 'Use Your Phone as a Camera',
+    description:
+      'Turn any phone into a wireless camera with free apps like DroidCam or EpocCam. No extra hardware needed.',
+  },
+  {
     icon: Camera,
     title: 'Multi-Camera Support',
     description:
-      'Works with USB cameras, phone cameras via DroidCam/EpocCam, and network cameras.',
+      'Record from multiple angles at once — USB cameras, phones, or network cameras. Switch views instantly.',
   },
   {
     icon: RotateCcw,
